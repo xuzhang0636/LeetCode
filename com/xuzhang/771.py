@@ -1,8 +1,9 @@
 class Solution(object):
-    def numJewelsInStones(self, J, S):
+    def judgeCircle(self, moves):
         """
-        :type J: str
-        :type S: str
-        :rtype: int
+        :type moves: str
+        :rtype: bool
         """
-        return sum([1 for i in S if i in J])
+
+"UDLLRR"
+strList = list()
